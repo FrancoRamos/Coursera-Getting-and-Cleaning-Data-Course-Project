@@ -1,14 +1,3 @@
----
-title: "CodeBook"
-author: "Franco"
-date: "26/11/2020"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## "Getting and Cleaning Data" Course Project Code Book
 
 ### Initial data for research
